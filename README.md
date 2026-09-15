@@ -1,4 +1,4 @@
-# GroupProject2 - Pickin' Trash (A volunteering app)
+# GroupProject - Pickin' Trash (A volunteering app)
 
 A mobile app that connects students with local environmental volunteering events. Built with **Expo (React Native)** and **Firebase**, it features event discovery and creation, QR check-in, geolocation and Google Places search, friend/follow social features, points & badges, and organizer dashboards.
 
